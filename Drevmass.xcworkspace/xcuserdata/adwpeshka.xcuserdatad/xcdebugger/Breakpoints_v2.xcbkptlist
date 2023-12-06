@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "856C407B-02B1-4D6F-9230-7F2AFD16EB3F"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A5DBB8D-A40E-44CB-8DAA-60B56C93F42A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Drevmass/OnboardingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "setup()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8A5DBB8D-A40E-44CB-8DAA-60B56C93F42A - 567807fd04266cfd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Drevmass.OnboardingViewController.setup() -&gt; ()"
+                  moduleName = "Drevmass"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adwpeshka/Desktop/projects/Drevmass/Drevmass/OnboardingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "484">
+               </Location>
+               <Location
+                  uuid = "8A5DBB8D-A40E-44CB-8DAA-60B56C93F42A - 567807fd04266f2b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Drevmass.OnboardingViewController.setup() -&gt; ()"
+                  moduleName = "Drevmass"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adwpeshka/Desktop/projects/Drevmass/Drevmass/OnboardingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "476">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "65EDF99D-B292-4155-9697-585B59520DA0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Drevmass/LessonsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "setup()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF2C3ED9-EC84-4556-88D1-EA6A19A37C7E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Drevmass/LessonInfoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "scrollView"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8EC0A835-3B53-4FDC-8694-06BB478B7A6D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Drevmass/LessonInfoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "scrollView"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "8EC0A835-3B53-4FDC-8694-06BB478B7A6D - 7684d62e4bcd6af9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Drevmass.LessonInfoViewController.scrollView.getter : __C.UIScrollView"
+                  moduleName = "Drevmass"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adwpeshka/Desktop/projects/Drevmass/Drevmass/LessonInfoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "8EC0A835-3B53-4FDC-8694-06BB478B7A6D - e9555f41f0622e36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.UIScrollView in Drevmass.LessonInfoViewController.scrollView.getter : __C.UIScrollView"
+                  moduleName = "Drevmass"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adwpeshka/Desktop/projects/Drevmass/Drevmass/LessonInfoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "8EC0A835-3B53-4FDC-8694-06BB478B7A6D - 7aaee534b00bb7c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Drevmass.LessonInfoViewController.scrollView.setter : __C.UIScrollView"
+                  moduleName = "Drevmass"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adwpeshka/Desktop/projects/Drevmass/Drevmass/LessonInfoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "8EC0A835-3B53-4FDC-8694-06BB478B7A6D - e827f5dec4cc1334"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Drevmass.LessonInfoViewController.scrollView.modify : __C.UIScrollView"
+                  moduleName = "Drevmass"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adwpeshka/Desktop/projects/Drevmass/Drevmass/LessonInfoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "8EC0A835-3B53-4FDC-8694-06BB478B7A6D - ad47ea1874bc966e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Drevmass.LessonInfoViewController.scrollView.modify : __C.UIScrollView with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Drevmass"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adwpeshka/Desktop/projects/Drevmass/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9953EEA9-6EB2-4640-B54E-2F2298C7BF3E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Drevmass/controllers/UserInfoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+            landmarkName = "genderButton"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
